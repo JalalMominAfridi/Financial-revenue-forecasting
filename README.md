@@ -250,7 +250,3 @@ financial-revenue-forecasting/
 │
 ├── images/
 │   └── revenue_forecast.png
-│
-└── results/
-    ├── final_model_comparison.csv
-    └── future_revenue_forecast.csv
